@@ -1,18 +1,18 @@
 Grace Swartz
+CPSC-230
+Fall 2022
 
-2414391
-
-files:
+Files:
 -wordle.py
 -words.txt
 
-how to run files:
+Run command:
 python3 wordle.py
 
-sources:
+Sources:
 -N/A
 
-collaborations:
--Patricia Bivol (2421265)
--Camille Schaaf (2433041)
--Kylie Davis (2368409)
+Collaborations:
+-Patricia Bivol
+-Camille Schaaf
+-Kylie Davis
